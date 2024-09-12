@@ -1,6 +1,6 @@
 [
     {
-        "name": "",
+        "name": "Житній бургер з яловичиною та грибним соусом",
         "description": "Житня булочка, соковита яловичина, ніжний сир ементаль, свіжі салат, томат і цибулька в поєднанні з грибним соусом створюють довершений смак українського бургера.",
         "calories": "",
         "fats": "",
@@ -12,9 +12,9 @@
         "portion": ""
     },
     {
-        "name": "",
+        "name": "Житній бургер з куркою та беконом",
         "description": "Що може бути краще за соковиту курячу котлетку в поєднанні із хрумким беконом, сиром чедер, свіжим салатом і томатом, смаженою цибулькою і соусом «Кремовий із прянощами» в житній булочці? Тільки насолоджуватися цим українським бургером!",
-        "calories": "",
+        "calories": "600 ккал/kcal",
         "fats": "29г Жири (43 % Daily Value)",
         "carbohydrates": "57г Вуглеводи (21 % Daily Value)",
         "proteins": "27г Білки (36 % Daily Value)",
@@ -24,9 +24,9 @@
         "portion": "250г/g (N/A % DV) N/Aг/g per100g"
     },
     {
-        "name": "",
+        "name": "МакКріспі",
         "description": "Соковите куряче філе в хрусткій паніровці у поєднанні зі свіжим салатом, соусом із зернами гірчиці у пухкенькій булочці, присипаній кунжутом і маком. Тобі сподобається!",
-        "calories": "",
+        "calories": "445 ккал/kcal",
         "fats": "14г Жири (21 % Daily Value)",
         "carbohydrates": "50г Вуглеводи (18 % Daily Value)",
         "proteins": "28г Білки (37 % Daily Value)",
@@ -36,9 +36,9 @@
         "portion": "195г/g (N/A % DV) N/Aг/g per100g"
     },
     {
-        "name": "",
+        "name": "Біг Мак®",
         "description": "Два біфштекси з натуральної яловичини, цибуля, маринований огірок, сир “Чеддер”, свіжий салат, заправлені спеціальним соусом, у булочці з насінням сезаму.",
-        "calories": "",
+        "calories": "526 ккал/kcal",
         "fats": "27г Жири (39 % Daily Value)",
         "carbohydrates": "43г Вуглеводи (17 % Daily Value)",
         "proteins": "27г Білки (54 % Daily Value)",
@@ -48,9 +48,9 @@
         "portion": "212г/g"
     },
     {
-        "name": "",
+        "name": "Гамбургер",
         "description": "Біфштекс із натуральної яловичини, цибуля, шматочок маринованого огірка, заправлені гірчицею і кетчупом, у запашній булочці з пшеничного борошна.",
-        "calories": "",
+        "calories": "249 ккал/kcal",
         "fats": "8.7г Жири (12 % Daily Value)",
         "carbohydrates": "29г Вуглеводи (11 % Daily Value)",
         "proteins": "13г Білки (26 % Daily Value)",
@@ -60,9 +60,9 @@
         "portion": "96г/g"
     },
     {
-        "name": "",
+        "name": "Чізбургер",
         "description": "Біфштекс із натуральної яловичини, шматочок сиру “Чеддер”, шматочок маринованого огірка та цибуля, заправлені гірчицею і кетчупом, у булочці з пшеничного борошна.",
-        "calories": "",
+        "calories": "298 ккал/kcal",
         "fats": "13г Жири (19 % Daily Value)",
         "carbohydrates": "29г Вуглеводи (11 % Daily Value)",
         "proteins": "16г Білки (32 % Daily Value)",
@@ -72,9 +72,9 @@
         "portion": "108г/g (N/A % DV) N/Aг/g per100g"
     },
     {
-        "name": "",
+        "name": "Дабл Чізбургер",
         "description": "Два біфштекси з натуральної яловичини, два шматочки сиру «Чедер», два мариновані огірки, цибуля, гірчиця, кетчуп, булочка.",
-        "calories": "",
+        "calories": "475 ккал/kcal",
         "fats": "27.3г Жири (39 % Daily Value)",
         "carbohydrates": "31.1г Вуглеводи (12 % Daily Value)",
         "proteins": "26.5г Білки (53 % Daily Value)",
@@ -84,9 +84,9 @@
         "portion": "163г/g"
     },
     {
-        "name": "",
+        "name": "МакЧікен",
         "description": "Класичний смак, простий вибір. Хрустка куряча котлета із соковитим салатом і ніжним соусом. Ну як тут відмовитись?!",
-        "calories": "",
+        "calories": "448 ккал/kcal",
         "fats": "18г Жири (26 % Daily Value)",
         "carbohydrates": "49.4г Вуглеводи (19 % Daily Value)",
         "proteins": "22.3г Білки (45 % Daily Value)",
@@ -96,21 +96,21 @@
         "portion": "180г/g"
     },
     {
-        "name": "",
+        "name": "Біг Тейсті®",
         "description": "Натуральна яловичина у поєднанні зі свіжими овочами та плавленим сиром “Емменталь”.",
-        "calories": "",
-        "fats": "49.5г Жири (71 % Daily Value)",
-        "carbohydrates": "49.1г Вуглеводи (19 % Daily Value)",
-        "proteins": "37.2г Білки (74 % Daily Value)",
-        "unsaturated_fats": "18.7г/g (86 % DV)",
-        "sugar": "10.2г/g (11 % DV)",
-        "salt": "3.0г/g (50 % DV)",
-        "portion": "318г/g"
+        "calories": "0",
+        "fats": "0 Жири (0 % DV )",
+        "carbohydrates": "0 Вуглеводи (0 % DV )",
+        "proteins": "0 Білки (0 % DV )",
+        "unsaturated_fats": "N/A",
+        "sugar": "N/A",
+        "salt": "N/A",
+        "portion": "N/A"
     },
     {
-        "name": "",
+        "name": "Філе-о-фіш®",
         "description": "Ніжне рибне філе із тріскових риб, засмажене у хрумкому паніруванні, півшматочка сиру “Чеддер”, заправлені пікантним соусом, у пухкій булочці з пшеничного борошна.",
-        "calories": "",
+        "calories": "327 ккал/kcal",
         "fats": "14г Жири (20 % Daily Value)",
         "carbohydrates": "35г Вуглеводи (13 % Daily Value)",
         "proteins": "15г Білки (30 % Daily Value)",
@@ -120,9 +120,9 @@
         "portion": "130г/g"
     },
     {
-        "name": "",
+        "name": "Роял Чізбургер",
         "description": "Біфштекс із натуральної яловичини, два слайси сиру «Чедер», два шматочки маринованого огірка та свіжа цибуля, заправлені гірчицею та кетчупом, у булочці з пшеничного борошна.",
-        "calories": "",
+        "calories": "530 ккал/kcal",
         "fats": "27г Жири (39 % Daily Value)",
         "carbohydrates": "38г Вуглеводи (15 % Daily Value)",
         "proteins": "32г Білки (64 % Daily Value)",
@@ -132,11 +132,11 @@
         "portion": "194г/g (N/A % DV) N/Aг/g per100g"
     },
     {
-        "name": "",
+        "name": "Дабл Роял Чізбургер",
         "description": "Два біфштекси з натуральної яловичини в поєднанні з двома слайсами ніжного сиру «Чедер», двома огірочками та свіжою цибулькою, заправлені гірчицею та кетчупом, у булочці з пшеничного борошна.",
-        "calories": "",
-        "fats": "44г Жири (63 % Daily Value)",
-        "carbohydrates": "38г Вуглеводи (15 % Daily Value)",
+        "calories": "0",
+        "fats": "0 Жири (0 % DV )",
+        "carbohydrates": "0 Вуглеводи (0 % DV )",
         "proteins": "52г Білки (104 % Daily Value)",
         "unsaturated_fats": "21г/g (107 % DV)",
         "sugar": "11г/g (12 % DV)",
@@ -144,9 +144,9 @@
         "portion": "272г/g (N/A % DV) N/Aг/g per100g"
     },
     {
-        "name": "",
+        "name": "Чізбургер з беконом",
         "description": "Соковитий біфштекс із яловичини, доповнений хрумким беконом і маринованим огірком, у поєднанні зі шматочком сиру «Чедер» та цибулею — усе це заправлено гірчицею та кетчупом у запашній булочці із пшеничного борошна.",
-        "calories": "",
+        "calories": "348 ккал/kcal",
         "fats": "17.6г Жири (25 % Daily Value)",
         "carbohydrates": "27.8г Вуглеводи (11 % Daily Value)",
         "proteins": "16.4г Білки (33 % Daily Value)",
@@ -156,9 +156,9 @@
         "portion": "116г/g"
     },
     {
-        "name": "",
+        "name": "Чікен Джуніор",
         "description": "Соковита куряча котлета із хрусткими шматочками огірочка під «Медово-гірчичним» соусом у запашній булочці з пшеничного борошна.",
-        "calories": "",
+        "calories": "330 ккал/kcal",
         "fats": "7.5г Жири (12 % Daily Value)",
         "carbohydrates": "51.9г Вуглеводи (19 % Daily Value)",
         "proteins": "12.5г Білки (16 % Daily Value)",
@@ -168,9 +168,9 @@
         "portion": "115г/g (N/A % DV) N/Aг/g per100g"
     },
     {
-        "name": "",
+        "name": "МакТост® із сиром",
         "description": "Гаряча булочка з двома скибочками сиру “Чеддер”.",
-        "calories": "",
+        "calories": "264 ккал/kcal",
         "fats": "10.1г Жири (15 % Daily Value)",
         "carbohydrates": "33г Вуглеводи (12 % Daily Value)",
         "proteins": "10.4г Білки (13 % Daily Value)",
@@ -180,9 +180,9 @@
         "portion": "73г/g"
     },
     {
-        "name": "",
+        "name": "Чікен Рол",
         "description": "Загорнуті в тонкий лаваш шматочки курятини, свіжі помідори та хрумкий салат- латук – і все це заправлене пікантним гірчично-медовим соусом.",
-        "calories": "",
+        "calories": "340 ккал/kcal",
         "fats": "10.1г Жири (15 % Daily Value)",
         "carbohydrates": "42.2г Вуглеводи (15 % Daily Value)",
         "proteins": "19.2г Білки (25 % Daily Value)",
@@ -192,9 +192,9 @@
         "portion": "215г/g"
     },
     {
-        "name": "",
+        "name": "Фіш Рол",
         "description": "Свіжий смак овочів у поєднанні з соковитим філе риби в паніруванні. Страва для справжніх гурманів!",
-        "calories": "",
+        "calories": "0",
         "fats": "19г Жири (28 % Daily Value)",
         "carbohydrates": "46г Вуглеводи (18 % Daily Value)",
         "proteins": "18г Білки (36 % Daily Value)",
@@ -204,9 +204,9 @@
         "portion": "190г/g"
     },
     {
-        "name": "",
+        "name": "Чікен МакНагетс® 4шт",
         "description": "Шматочки ніжного курячого філе, засмажені в хрумкій паніровці.",
-        "calories": "",
+        "calories": "176 ккал/kcal",
         "fats": "8.6г Жири (12 % Daily Value)",
         "carbohydrates": "13г Вуглеводи (5 % Daily Value)",
         "proteins": "11г Білки (22 % Daily Value)",
@@ -216,9 +216,9 @@
         "portion": "68г/g (N/A % DV) N/Aг/g per100g"
     },
     {
-        "name": "",
+        "name": "Чікен МакНагетс 6шт",
         "description": "Апетитні шматочки ніжного курячого філе, засмажені у хрумкій паніровці.",
-        "calories": "",
+        "calories": "0",
         "fats": "13г Жири (18 % Daily Value)",
         "carbohydrates": "20г Вуглеводи (8 % Daily Value)",
         "proteins": "17г Білки (33 % Daily Value)",
@@ -228,9 +228,9 @@
         "portion": "100г/g"
     },
     {
-        "name": "",
+        "name": "Чікен МакНагетс 9шт",
         "description": "Апетитні шматочки ніжного курячого філе, засмажені у хрумкій паніровці.",
-        "calories": "",
+        "calories": "397 ккал/kcal",
         "fats": "19г Жири (28 % Daily Value)",
         "carbohydrates": "30г Вуглеводи (12 % Daily Value)",
         "proteins": "25г Білки (50 % Daily Value)",
@@ -240,9 +240,9 @@
         "portion": "150г/g"
     },
     {
-        "name": "",
+        "name": "Чікен МакНагетс 20 шт",
         "description": "Апетитні шматочки ніжного курячого філе, засмажені у хрумкій паніровці.",
-        "calories": "",
+        "calories": "882 ккал/kcal",
         "fats": "43г Жири (61 % Daily Value)",
         "carbohydrates": "67г Вуглеводи (26 % Daily Value)",
         "proteins": "55г Білки (110 % Daily Value)",
@@ -252,9 +252,9 @@
         "portion": "340г/g (N/A % DV) N/Aг/g per100g"
     },
     {
-        "name": "",
+        "name": "Курячі Стріпси, 3 штуки",
         "description": "Смужки білого соковитого курячого філе, що обсмажуються у хрусткій паніровці. Скільки тобі шматочків? Три, щоб з’їсти одному, чи шість для себе і друга або ж дванадцять на велику компанію?",
-        "calories": "",
+        "calories": "200 ккал/kcal",
         "fats": "9.7г Жири (14 % Daily Value)",
         "carbohydrates": "10.1г Вуглеводи (4 % Daily Value)",
         "proteins": "18.2г Білки (36 % Daily Value)",
@@ -264,9 +264,9 @@
         "portion": "80г/g (N/A % DV) N/Aг/g per100g"
     },
     {
-        "name": "",
+        "name": "Курячі Стріпси, 6 штук",
         "description": "Смужки білого соковитого курячого філе, що обсмажуються у хрусткій паніровці. Скільки тобі шматочків? Три, щоб з’їсти одному, чи шість для себе і друга або ж дванадцять на велику компанію?",
-        "calories": "",
+        "calories": "400 ккал/kcal",
         "fats": "19.3г Жири (28 % Daily Value)",
         "carbohydrates": "20.2г Вуглеводи (8 % Daily Value)",
         "proteins": "36.3г Білки (73 % Daily Value)",
@@ -276,9 +276,9 @@
         "portion": "160г/g (N/A % DV) N/Aг/g per100g"
     },
     {
-        "name": "",
+        "name": "Курячі Стріпси, 12 штук",
         "description": "Смужки білого соковитого курячого філе, що обсмажуються у хрусткій паніровці. Скільки тобі шматочків? Три, щоб з’їсти одному, чи шість для себе і друга або ж дванадцять на велику компанію?",
-        "calories": "",
+        "calories": "800 ккал/kcal",
         "fats": "38.6г Жири (55 % Daily Value)",
         "carbohydrates": "40.3г Вуглеводи (16 % Daily Value)",
         "proteins": "72.7г Білки (145 % Daily Value)",
@@ -288,9 +288,9 @@
         "portion": "320г/g (N/A % DV) N/Aг/g per100g"
     },
     {
-        "name": "",
+        "name": "Стріпси Чікен Бокс",
         "description": "Мікс Бокс для невеличкої компанії друзів. Адже всередині знайдеш дев’ять золотавих Чікен МакНагетс® та шість стріпсів із курячого філе.",
-        "calories": "",
+        "calories": "831 ккал/kcal",
         "fats": "39.2г Жири (56 % Daily Value)",
         "carbohydrates": "55.1г Вуглеводи (21 % Daily Value)",
         "proteins": "64.5г Білки (129 % Daily Value)",
@@ -300,9 +300,9 @@
         "portion": "330г/g (N/A % DV) N/Aг/g per100g"
     },
     {
-        "name": "",
+        "name": "Картопля Фрі велика",
         "description": "Добірна картопля, засмажена в натуральній олії і трохи підсолена.",
-        "calories": "",
+        "calories": "434 ккал/kcal",
         "fats": "21г Жири (29 % Daily Value)",
         "carbohydrates": "54г Вуглеводи (21 % Daily Value)",
         "proteins": "5.2г Білки (10 % Daily Value)",
@@ -312,9 +312,9 @@
         "portion": "120г/g"
     },
     {
-        "name": "",
+        "name": "Картопля Фрі середня",
         "description": "Добірна картопля, засмажена в натуральній олії і трохи підсолена.",
-        "calories": "",
+        "calories": "330 ккал/kcal",
         "fats": "16г Жири (22 % Daily Value)",
         "carbohydrates": "41г Вуглеводи (16 % Daily Value)",
         "proteins": "4г Білки (8 % Daily Value)",
@@ -324,9 +324,9 @@
         "portion": "90г/g"
     },
     {
-        "name": "",
+        "name": "Картопля Фрі маленька",
         "description": "Добірна картопля, засмажена в натуральній олії і трохи підсолена.",
-        "calories": "",
+        "calories": "231 ккал/kcal",
         "fats": "11г Жири (16 % Daily Value)",
         "carbohydrates": "29г Вуглеводи (11 % Daily Value)",
         "proteins": "2.8г Білки (6 % Daily Value)",
@@ -336,9 +336,9 @@
         "portion": "60г/g"
     },
     {
-        "name": "",
+        "name": "Картопляні Діпи",
         "description": "Апетитні скибочки добірної картоплі, засмажені в натуральній олії і трохи підсолені.",
-        "calories": "",
+        "calories": "232 ккал/kcal",
         "fats": "5.7г Жири (9 % Daily Value)",
         "carbohydrates": "40.1г Вуглеводи (15 % Daily Value)",
         "proteins": "3.3г Білки (4 % Daily Value)",
@@ -348,9 +348,9 @@
         "portion": "150г/g (N/A % DV) N/Aг/g per100g"
     },
     {
-        "name": "",
+        "name": "Соус Хабанеро",
         "description": "Пікантний перець Хабанеро, солодка паприка й прянощі. Спробуй із курячими крильцями, стріпсами, Картоплею Фрі або Чікен МакНагетс®!",
-        "calories": "",
+        "calories": "120 ккал/kcal",
         "fats": "12.4г Жири (18 % Daily Value)",
         "carbohydrates": "3.4г Вуглеводи (1 % Daily Value)",
         "proteins": "0.3г Білки (0 % Daily Value)",
@@ -360,9 +360,9 @@
         "portion": "40г/g (N/A % DV) N/Aг/g per100g"
     },
     {
-        "name": "",
+        "name": "Соус із сиром Дорблю",
         "description": "Ніжний соус із вишуканим вершковим смаком сиру Дорблю — ідеальне доповнення до хрумких снеків.",
-        "calories": "",
+        "calories": "100 ккал/kcal",
         "fats": "10.4г Жири (15 % Daily Value)",
         "carbohydrates": "2.7г Вуглеводи (1 % Daily Value)",
         "proteins": "0.4г Білки (0 % Daily Value)",
@@ -372,9 +372,9 @@
         "portion": "40г/g (N/A % DV) N/Aг/g per100g"
     },
     {
-        "name": "",
+        "name": "Майонез",
         "description": "",
-        "calories": "",
+        "calories": "119 ккал/kcal",
         "fats": "13г Жири (18 % Daily Value)",
         "carbohydrates": "1.2г Вуглеводи (0 % Daily Value)",
         "proteins": "0.1г Білки (0 % Daily Value)",
@@ -384,9 +384,9 @@
         "portion": "25г/g"
     },
     {
-        "name": "",
+        "name": "Соус Барбекю",
         "description": "",
-        "calories": "",
+        "calories": "38 ккал/kcal",
         "fats": "0.2г Жири (0 % Daily Value)",
         "carbohydrates": "8.9г Вуглеводи (3 % Daily Value)",
         "proteins": "0.2г Білки (0 % Daily Value)",
@@ -396,9 +396,9 @@
         "portion": "25г/g"
     },
     {
-        "name": "",
+        "name": "Кетчуп",
         "description": "",
-        "calories": "",
+        "calories": "29 ккал/kcal",
         "fats": "0.0г Жири (0 % Daily Value)",
         "carbohydrates": "6.7г Вуглеводи (3 % Daily Value)",
         "proteins": "0.4г Білки (1 % Daily Value)",
@@ -408,9 +408,9 @@
         "portion": "28г/g"
     },
     {
-        "name": "",
+        "name": "Соус Гірчичний",
         "description": "",
-        "calories": "",
+        "calories": "55 ккал/kcal",
         "fats": "3г Жири (4 % Daily Value)",
         "carbohydrates": "6.4г Вуглеводи (2 % Daily Value)",
         "proteins": "0.5г Білки (1 % Daily Value)",
@@ -420,21 +420,21 @@
         "portion": "25г/g (N/A % DV) N/Aг/g per100g"
     },
     {
-        "name": "",
+        "name": "Соус кисло-солодкий",
         "description": "",
-        "calories": "",
-        "fats": "0.3г Жири (0 % Daily Value)",
-        "carbohydrates": "9.4г Вуглеводи (4 % Daily Value)",
-        "proteins": "0.1г Білки (0 % Daily Value)",
+        "calories": "0",
+        "fats": "0 Жири (0 % DV )",
+        "carbohydrates": "0 Вуглеводи (0 % DV )",
+        "proteins": "N/A",
         "unsaturated_fats": "0г/g (0 % DV)",
         "sugar": "3г/g (0 % DV)",
         "salt": "0.00г/g (0 % DV)",
         "portion": "25г/g"
     },
     {
-        "name": "",
+        "name": "Соус Сирний",
         "description": "",
-        "calories": "",
+        "calories": "89 ккал/kcal",
         "fats": "9г Жири (13 % Daily Value)",
         "carbohydrates": "0.9г Вуглеводи (0 % Daily Value)",
         "proteins": "0.5г Білки (1 % Daily Value)",
@@ -444,9 +444,9 @@
         "portion": "24г/g"
     },
     {
-        "name": "",
+        "name": "Мед",
         "description": "",
-        "calories": "",
+        "calories": "36 ккал/kcal",
         "fats": "0.0г Жири (0 % Daily Value)",
         "carbohydrates": "9г Вуглеводи (3 % Daily Value)",
         "proteins": "0.1г Білки (0 % Daily Value)",
@@ -456,11 +456,11 @@
         "portion": "12г/g"
     },
     {
-        "name": "",
+        "name": "МАКСАНДІ® Карамель у пластиковому стаканчику",
         "description": "Охолоджена молочна суміш, збита до ідеального морозива та прикрашена карамельною поливою.",
-        "calories": "",
-        "fats": "6.1г Жири (9 % Daily Value)",
-        "carbohydrates": "53г Вуглеводи (20 % Daily Value)",
+        "calories": "0",
+        "fats": "0 Жири (0 % DV )",
+        "carbohydrates": "N/A",
         "proteins": "4.7г Білки (9 % Daily Value)",
         "unsaturated_fats": "4.1г/g (20 % DV)",
         "sugar": "38г/g (42 % DV)",
@@ -468,9 +468,9 @@
         "portion": "138г/g"
     },
     {
-        "name": "",
+        "name": "МАКСАНДІ® Шоколад у пластиковому стаканчику",
         "description": "Охолоджена молочна суміш, збита до ідеального морозива та прикрашена шоколадною поливою.",
-        "calories": "",
+        "calories": "278 ккал/kcal",
         "fats": "8.2г Жири (12 % Daily Value)",
         "carbohydrates": "45г Вуглеводи (17 % Daily Value)",
         "proteins": "5.5г Білки (11 % Daily Value)",
@@ -480,9 +480,9 @@
         "portion": "138г/g"
     },
     {
-        "name": "",
+        "name": "МАКСАНДІ® Полуниця у пластиковому стаканчику",
         "description": "Охолоджена молочна суміш, збита до ідеального морозива та прикрашена полуничною поливою.",
-        "calories": "",
+        "calories": "227 ккал/kcal",
         "fats": "4.1г Жири (6 % Daily Value)",
         "carbohydrates": "43г Вуглеводи (17 % Daily Value)",
         "proteins": "4.1г Білки (8 % Daily Value)",
@@ -492,21 +492,21 @@
         "portion": "138г/g"
     },
     {
-        "name": "",
+        "name": "МАКСАНДІ® Бабл Гам у пластиковому стаканчику",
         "description": "Ніжне морозиво, зроблене з натурального молока, із новою поливою Бабл Гам.",
-        "calories": "",
-        "fats": "4.0г Жири (6 % Daily Value)",
-        "carbohydrates": "43.0г Вуглеводи (16 % Daily Value)",
-        "proteins": "4.4г Білки (5 % Daily Value)",
-        "unsaturated_fats": "2.7г/g (14 % DV)",
-        "sugar": "40.6г/g (43 % DV)",
-        "salt": "0.2г/g (4 % DV)",
-        "portion": "138г/g (N/A % DV) N/Aг/g per100g"
+        "calories": "0",
+        "fats": "0 Жири (0 % DV )",
+        "carbohydrates": "0 Вуглеводи (0 % DV )",
+        "proteins": "0 Білки (0 % DV )",
+        "unsaturated_fats": "N/A",
+        "sugar": "N/A",
+        "salt": "N/A",
+        "portion": "N/A"
     },
     {
-        "name": "",
+        "name": "МАКСАНДІ® Карамель у вафельному стаканчику",
         "description": "Охолоджена молочна суміш, збита до ідеального морозива та прикрашена карамельною поливою, у вафельному стаканчику.",
-        "calories": "",
+        "calories": "309 ккал/kcal",
         "fats": "6.2г Жири (9 % Daily Value)",
         "carbohydrates": "57.7г Вуглеводи (21 % Daily Value)",
         "proteins": "4.9г Білки (9 % Daily Value)",
@@ -516,9 +516,9 @@
         "portion": "138г/g"
     },
     {
-        "name": "",
+        "name": "МАКСАНДІ® Шоколад у вафельному стаканчику",
         "description": "Охолоджена молочна суміш, збита до ідеального морозива та прикрашена шоколадною поливою, у вафельному стаканчику.",
-        "calories": "",
+        "calories": "301 ккал/kcal",
         "fats": "8.3г Жири (12 % Daily Value)",
         "carbohydrates": "49.7г Вуглеводи (18 % Daily Value)",
         "proteins": "5.7г Білки (11 % Daily Value)",
@@ -528,9 +528,9 @@
         "portion": "138г/g (N/A % DV) N/Aг/g per100g"
     },
     {
-        "name": "",
+        "name": "МАКСАНДІ® Полуниця у вафельному стаканчику",
         "description": "Охолоджена молочна суміш, збита до ідеального морозива та прикрашена полуничною поливою, у вафельному стаканчику.",
-        "calories": "",
+        "calories": "250 ккал/kcal",
         "fats": "4.2г Жири (6 % Daily Value)",
         "carbohydrates": "47.7г Вуглеводи (18 % Daily Value)",
         "proteins": "4.3г Білки (8 % Daily Value)",
@@ -540,9 +540,9 @@
         "portion": "138г/g (N/A % DV) N/Aг/g per100g"
     },
     {
-        "name": "",
+        "name": "МАКСАНДІ® Бабл Гам у вафельному стаканчику",
         "description": "Ніжне морозиво, зроблене з натурального молока, із новою поливою Бабл Гам у вафельному стаканчику.",
-        "calories": "",
+        "calories": "250 ккал/kcal",
         "fats": "4.0г Жири (6 % Daily Value)",
         "carbohydrates": "48.0г Вуглеводи (17 % Daily Value)",
         "proteins": "5.0г Білки (7 % Daily Value)",
@@ -552,9 +552,9 @@
         "portion": "140г/g (N/A % DV) N/Aг/g per100g"
     },
     {
-        "name": "",
+        "name": "Морозиво ріжок",
         "description": "Морозиво, приготоване з добірної молочної суміші, у хрусткому стаканчику.",
-        "calories": "",
+        "calories": "171 ккал/kcal",
         "fats": "3.95446153г Жири (6 % Daily Value)",
         "carbohydrates": "28.9876923г Вуглеводи (11 % Daily Value)",
         "proteins": "4.42557692г Білки (9 % Daily Value)",
@@ -564,21 +564,21 @@
         "portion": "95г/g"
     },
     {
-        "name": "",
+        "name": "МАКФЛУРІ® КІТ КАТ Шоколад",
         "description": "Морозиво із шоколадною поливою і КітКат.",
-        "calories": "",
-        "fats": "7.93г Жири (11 % Daily Value)",
-        "carbohydrates": "56г Вуглеводи (22 % Daily Value)",
-        "proteins": "8.49г Білки (17 % Daily Value)",
-        "unsaturated_fats": "1.14г/g (6 % DV)",
-        "sugar": "25.52г/g (28 % DV)",
-        "salt": "0.01г/g (0 % DV)",
-        "portion": "195г/g"
+        "calories": "0",
+        "fats": "0 Жири (0 % DV )",
+        "carbohydrates": "0 Вуглеводи (0 % DV )",
+        "proteins": "0 Білки (0 % DV )",
+        "unsaturated_fats": "N/A",
+        "sugar": "N/A",
+        "salt": "N/A",
+        "portion": "N/A"
     },
     {
-        "name": "",
+        "name": "МАКФЛУРІ® КІТ КАТ Карамель",
         "description": "Морозиво із карамельною поливою і КітКат.",
-        "calories": "",
+        "calories": "354 ккал/kcal",
         "fats": "9г Жири (13 % Daily Value)",
         "carbohydrates": "60г Вуглеводи (23 % Daily Value)",
         "proteins": "8.13г Білки (16 % Daily Value)",
@@ -588,9 +588,9 @@
         "portion": "195г/g"
     },
     {
-        "name": "",
+        "name": "МАКФЛУРІ® КІТ КАТ Полуниця",
         "description": "Морозиво із полуничною поливою і КітКат.",
-        "calories": "",
+        "calories": "318 ккал/kcal",
         "fats": "7.71г Жири (11 % Daily Value)",
         "carbohydrates": "54г Вуглеводи (21 % Daily Value)",
         "proteins": "7.71г Білки (15 % Daily Value)",
@@ -600,9 +600,9 @@
         "portion": "195г/g"
     },
     {
-        "name": "",
+        "name": "МАКФЛУРІ® Бабл Гам",
         "description": "Улюблене морозиво, зроблене з охолодженого натурального молока, з новою поливою Бабл Гам і хрусткими вафельними крихтами.",
-        "calories": "",
+        "calories": "315 ккал/kcal",
         "fats": "5.9г Жири (9 % Daily Value)",
         "carbohydrates": "57.9г Вуглеводи (21 % Daily Value)",
         "proteins": "7.0г Білки (9 % Daily Value)",
@@ -612,9 +612,9 @@
         "portion": "190г/g (N/A % DV) N/Aг/g per100g"
     },
     {
-        "name": "",
+        "name": "МАКШЕЙК® Шоколад",
         "description": "Чудово збитий коктейль, приготований із добірного молока та шоколадного сиропу.",
-        "calories": "",
+        "calories": "413 ккал/kcal",
         "fats": "8.6г Жири (12 % Daily Value)",
         "carbohydrates": "71г Вуглеводи (27 % Daily Value)",
         "proteins": "12г Білки (24 % Daily Value)",
@@ -624,9 +624,9 @@
         "portion": "450мл/ml"
     },
     {
-        "name": "",
+        "name": "МАКШЕЙК® Ваніль",
         "description": "Чудово збитий коктейль, приготований із добірного молока та ванільного сиропу.",
-        "calories": "",
+        "calories": "408 ккал/kcal",
         "fats": "7.5г Жири (11 % Daily Value)",
         "carbohydrates": "73г Вуглеводи (28 % Daily Value)",
         "proteins": "11г Білки (22 % Daily Value)",
@@ -636,9 +636,9 @@
         "portion": "450мл/ml"
     },
     {
-        "name": "",
+        "name": "МАКШЕЙК® Полуниця",
         "description": "Чудово збитий коктейль, приготований із добірного молока та полуничного сиропу.",
-        "calories": "",
+        "calories": "415 ккал/kcal",
         "fats": "7.6г Жири (11 % Daily Value)",
         "carbohydrates": "74г Вуглеводи (29 % Daily Value)",
         "proteins": "11г Білки (22 % Daily Value)",
@@ -648,9 +648,9 @@
         "portion": "450мл/ml"
     },
     {
-        "name": "",
+        "name": "МакПиріг® вишневий",
         "description": "Хрумкий, свіжоспечений МакПиріг® із вишневим наповнювачем.",
-        "calories": "",
+        "calories": "272 ккал/kcal",
         "fats": "15г Жири (21 % Daily Value)",
         "carbohydrates": "31г Вуглеводи (12 % Daily Value)",
         "proteins": "2.41г Білки (5 % Daily Value)",
@@ -660,33 +660,33 @@
         "portion": "80г/g"
     },
     {
-        "name": "",
+        "name": "Круасан мигдалевий",
         "description": "",
-        "calories": "",
-        "fats": "16г Жири (23 % Daily Value)",
-        "carbohydrates": "26г Вуглеводи (10 % Daily Value)",
-        "proteins": "5г Білки (10 % Daily Value)",
-        "unsaturated_fats": "0г/g (0 % DV)",
-        "sugar": "3.7125г/g (4 % DV)",
-        "salt": "0.4575г/g (8 % DV)",
-        "portion": "65г/g (N/A % DV) N/Aг/g per100g"
+        "calories": "0",
+        "fats": "0 Жири (0 % DV )",
+        "carbohydrates": "0 Вуглеводи (0 % DV )",
+        "proteins": "0 Білки (0 % DV )",
+        "unsaturated_fats": "N/A",
+        "sugar": "N/A",
+        "salt": "N/A",
+        "portion": "N/A"
     },
     {
-        "name": "",
+        "name": "Круасан з крем-какао",
         "description": "Запашний круасан із хрусткою золотою скоринкою та ніжним какао-кремом.",
-        "calories": "",
-        "fats": "18г Жири (26 % Daily Value)",
-        "carbohydrates": "28г Вуглеводи (11 % Daily Value)",
-        "proteins": "4.4925г Білки (9 % Daily Value)",
-        "unsaturated_fats": "0г/g (0 % DV)",
+        "calories": "0",
+        "fats": "0 Жири (0 % DV )",
+        "carbohydrates": "0 Вуглеводи (0 % DV )",
+        "proteins": "0 Білки (0 % DV )",
+        "unsaturated_fats": "N/A",
         "sugar": "4.425г/g (5 % DV)",
         "salt": "0.45г/g (8 % DV)",
         "portion": "65г/g (N/A % DV) N/Aг/g per100g"
     },
     {
-        "name": "",
+        "name": "Кава \"Лате\" велика",
         "description": "Лате – кавовий напій, який містить молоко. Особливістю цієї кави є те, що, на відміну від капучино, у лате молока значно більше.",
-        "calories": "",
+        "calories": "130 ккал/kcal",
         "fats": "7.0г Жири (10 % Daily Value)",
         "carbohydrates": "10.4г Вуглеводи (4 % Daily Value)",
         "proteins": "6.2г Білки (12 % Daily Value)",
@@ -696,9 +696,9 @@
         "portion": "295мл/ml"
     },
     {
-        "name": "",
+        "name": "Кава \"Лате\" мала",
         "description": "Лате – кавовий напій, який містить молоко. Особливістю цієї кави є те, що, на відміну від капучино, у лате молока значно більше.",
-        "calories": "",
+        "calories": "82 ккал/kcal",
         "fats": "4.5г Жири (6 % Daily Value)",
         "carbohydrates": "6.6г Вуглеводи (3 % Daily Value)",
         "proteins": "3.9г Білки (8 % Daily Value)",
@@ -708,9 +708,9 @@
         "portion": "195мл/ml"
     },
     {
-        "name": "",
+        "name": "Кава \"Капучино\" велика",
         "description": "Капучино – це мікс еспресо та гарячого молока у рівних пропорціях. Особливістю цієї кави є смачна молочна пінка, яка утворюється завдяки поєднанню пари та молока.",
-        "calories": "",
+        "calories": "130 ккал/kcal",
         "fats": "7.0г Жири (10 % Daily Value)",
         "carbohydrates": "10.4г Вуглеводи (4 % Daily Value)",
         "proteins": "6.2г Білки (12 % Daily Value)",
@@ -720,9 +720,9 @@
         "portion": "245мл/ml (N/A % DV) N/Aмл/ml per100g"
     },
     {
-        "name": "",
+        "name": "Кава \"Капучино\" мала",
         "description": "Капучино – це мікс еспресо та гарячого молока у рівних пропорціях. Особливістю цієї кави є смачна молочна пінка, яка утворюється завдяки поєднанню пари та молока.",
-        "calories": "",
+        "calories": "71 ккал/kcal",
         "fats": "3.8г Жири (5 % Daily Value)",
         "carbohydrates": "5.7г Вуглеводи (2 % Daily Value)",
         "proteins": "3.4г Білки (7 % Daily Value)",
@@ -732,9 +732,9 @@
         "portion": "175мл/ml"
     },
     {
-        "name": "",
+        "name": "Кава \"Американо\" велика",
         "description": "Американо – це еспресо з додаванням гарячої води і тому напій має аналогічні характеристики.",
-        "calories": "",
+        "calories": "0 ккал/kcal",
         "fats": "0г Жири (0 % Daily Value)",
         "carbohydrates": "0.0г Вуглеводи (0 % Daily Value)",
         "proteins": "0.0г Білки (0 % Daily Value)",
@@ -744,9 +744,9 @@
         "portion": "230мл/ml"
     },
     {
-        "name": "",
+        "name": "Кава \"Американо\" мала",
         "description": "Американо – це еспресо з додаванням гарячої води і тому напій має аналогічні характеристики.",
-        "calories": "",
+        "calories": "0.0 ккал/kcal",
         "fats": "0.0г Жири (0 % Daily Value)",
         "carbohydrates": "0.0г Вуглеводи (0 % Daily Value)",
         "proteins": "0.0г Білки (0 % Daily Value)",
@@ -756,9 +756,9 @@
         "portion": "150мл/ml"
     },
     {
-        "name": "",
+        "name": "Кава \"Американо з молоком\" мала",
         "description": "Американо з молоком – це еспресо з додаванням гарячої води та молока тому напій має м'якший смак, ніж американо.",
-        "calories": "",
+        "calories": "30 ккал/kcal",
         "fats": "1.6г Жири (2 % Daily Value)",
         "carbohydrates": "2.4г Вуглеводи (1 % Daily Value)",
         "proteins": "1.4г Білки (3 % Daily Value)",
@@ -768,9 +768,9 @@
         "portion": "175мл/ml (N/A % DV) N/Aмл/ml per100g"
     },
     {
-        "name": "",
+        "name": "Кава \"Американо з молоком\" велика",
         "description": "Американо з молоком – це еспресо з додаванням гарячої води та молока тому напій має м'якший смак, ніж американо.",
-        "calories": "",
+        "calories": "47 ккал/kcal",
         "fats": "2.6г Жири (4 % Daily Value)",
         "carbohydrates": "3.8г Вуглеводи (1 % Daily Value)",
         "proteins": "2.3г Білки (5 % Daily Value)",
@@ -780,9 +780,9 @@
         "portion": "275мл/ml (N/A % DV) N/Aмл/ml per100g"
     },
     {
-        "name": "",
+        "name": "Кава \"Еспресо\"",
         "description": "Еспресо – дуже міцна кава без молока в маленьких порціях. Еспресо має густу однорідну «живу» пінку світло-горіхового кольору з «тигровими» розводами, яка відновлюється після розмішування напою.",
-        "calories": "",
+        "calories": "0.0 ккал/kcal",
         "fats": "0.0г Жири (0 % Daily Value)",
         "carbohydrates": "0.0г Вуглеводи (0 % Daily Value)",
         "proteins": "0.0г Білки (0 % Daily Value)",
@@ -792,9 +792,9 @@
         "portion": "40мл/ml"
     },
     {
-        "name": "",
+        "name": "Кава подвійне еспресо",
         "description": "Подвійне еспресо – дуже міцна кава без молока в маленьких порціях. Подвійне еспресо має густу однорідну «живу» пінку світло-горіхового кольору з «тигровими» розводами, яка відновлюється після розмішування напою.",
-        "calories": "",
+        "calories": "0.0 ккал/kcal",
         "fats": "0.0г Жири (0 % Daily Value)",
         "carbohydrates": "0.0г Вуглеводи (0 % Daily Value)",
         "proteins": "0.0г Білки (0 % Daily Value)",
@@ -804,9 +804,9 @@
         "portion": "60мл/ml (N/A % DV) N/Aмл/ml per100g"
     },
     {
-        "name": "",
+        "name": "Кава \"Флет Вайт\"",
         "description": "Флет Вайт – для тих, хто любить насичений кавовий смак подвійного еспресо з додаванням спіненого гарячого молока. Тепер ще більш насичений смак вашої улюбленої кави.",
-        "calories": "",
+        "calories": "65 ккал/kcal",
         "fats": "3.5г Жири (5 % Daily Value)",
         "carbohydrates": "5.2г Вуглеводи (2 % Daily Value)",
         "proteins": "3.1г Білки (6 % Daily Value)",
@@ -816,9 +816,9 @@
         "portion": "155мл/ml (N/A % DV) N/Aмл/ml per100g"
     },
     {
-        "name": "",
+        "name": "Какао велике",
         "description": "Гаряче молоко в тандемі з какао подарують м’який смак та чудовий настрій на весь день.",
-        "calories": "",
+        "calories": "210 ккал/kcal",
         "fats": "4.46г Жири (6 % Daily Value)",
         "carbohydrates": "33.65г Вуглеводи (13 % Daily Value)",
         "proteins": "8.05г Білки (16 % Daily Value)",
@@ -828,9 +828,9 @@
         "portion": "300мл/ml (N/A % DV) N/Aмл/ml per100g"
     },
     {
-        "name": "",
+        "name": "Какао мале",
         "description": "Гаряче молоко в тандемі з какао подарують м’який смак та чудовий настрій на весь день.",
-        "calories": "",
+        "calories": "136 ккал/kcal",
         "fats": "2.48г Жири (4 % Daily Value)",
         "carbohydrates": "22.76г Вуглеводи (9 % Daily Value)",
         "proteins": "4.99г Білки (10 % Daily Value)",
@@ -840,11 +840,11 @@
         "portion": "200мл/ml (N/A % DV) N/Aмл/ml per100g"
     },
     {
-        "name": "",
+        "name": "Мокко",
         "description": "Мокко - солодкий кавовий напій із додаванням молока та ніжного какао.",
-        "calories": "",
-        "fats": "7.0г Жири (10 % Daily Value)",
-        "carbohydrates": "21.2г Вуглеводи (8 % Daily Value)",
+        "calories": "0",
+        "fats": "0 Жири (0 % DV )",
+        "carbohydrates": "0 Вуглеводи (0 % DV )",
         "proteins": "4.4г Білки (9 % Daily Value)",
         "unsaturated_fats": "3.3г/g (17 % DV) N/Aг/g per100g",
         "sugar": "16.7г/g (19 % DV) N/Aг/g per100g",
@@ -852,9 +852,9 @@
         "portion": "295мл/ml (N/A % DV) N/Aмл/ml per100g"
     },
     {
-        "name": "",
+        "name": "Айс Американо",
         "description": "Скажи «Айс Американо» — та освіжайся кавовим напоєм із льодом!",
-        "calories": "",
+        "calories": "1 ккал/kcal",
         "fats": "0.0г Жири (0 % Daily Value)",
         "carbohydrates": "0.1г Вуглеводи (0 % Daily Value)",
         "proteins": "0.2г Білки (0 % Daily Value)",
@@ -864,9 +864,9 @@
         "portion": "280мл/ml (N/A % DV) N/Aмл/ml per100g"
     },
     {
-        "name": "",
+        "name": "Айс Лате",
         "description": "Коли кава, молоко та лід з’являються в одному стаканчику, виходить ідеальний Айс Лате для освіження!",
-        "calories": "",
+        "calories": "84 ккал/kcal",
         "fats": "4.5г Жири (6 % Daily Value)",
         "carbohydrates": "6.7г Вуглеводи (3 % Daily Value)",
         "proteins": "4.1г Білки (8 % Daily Value)",
@@ -876,9 +876,9 @@
         "portion": "280мл/ml (N/A % DV) N/Aмл/ml per100g"
     },
     {
-        "name": "",
+        "name": "Чай чорний",
         "description": "Оригінальний чорний чай.",
-        "calories": "",
+        "calories": "0 ккал/kcal",
         "fats": "0г Жири (0 % Daily Value)",
         "carbohydrates": "0г Вуглеводи (0 % Daily Value)",
         "proteins": "0г Білки (0 % Daily Value)",
@@ -888,9 +888,9 @@
         "portion": "300мл/ml"
     },
     {
-        "name": "",
+        "name": "Чай зелений з цитрусовими",
         "description": "Оригінальний зелений чай.",
-        "calories": "",
+        "calories": "0 ккал/kcal",
         "fats": "0.0г Жири (0 % Daily Value)",
         "carbohydrates": "0.0г Вуглеводи (0 % Daily Value)",
         "proteins": "0.0г Білки (0 % Daily Value)",
@@ -900,9 +900,9 @@
         "portion": "300мл/ml"
     },
     {
-        "name": "",
+        "name": "Апельсиновий сік великий",
         "description": "Натуральний прохолодний апельсиновий сік без додавання цукру.",
-        "calories": "",
+        "calories": "179 ккал/kcal",
         "fats": "0.4г Жири (1 % Daily Value)",
         "carbohydrates": "26.1г Вуглеводи (10 % Daily Value)",
         "proteins": "2.0г Білки (4 % Daily Value)",
@@ -912,9 +912,9 @@
         "portion": "450мл/ml"
     },
     {
-        "name": "",
+        "name": "Апельсиновий сік маленький",
         "description": "Натуральний прохолодний апельсиновий сік без додавання цукру.",
-        "calories": "",
+        "calories": "119 ккал/kcal",
         "fats": "0.5г Жири (1 % Daily Value)",
         "carbohydrates": "26.1г Вуглеводи (10 % Daily Value)",
         "proteins": "2.0г Білки (4 % Daily Value)",
@@ -924,9 +924,9 @@
         "portion": "300мл/ml (N/A % DV) N/Aмл/ml per100g"
     },
     {
-        "name": "",
+        "name": "Кока-Кола® велика",
         "description": "Всесвітньо відомий освіжаючий напій.",
-        "calories": "",
+        "calories": "204 ккал/kcal",
         "fats": "0г Жири (0 % Daily Value)",
         "carbohydrates": "51г Вуглеводи (20 % Daily Value)",
         "proteins": "0г Білки (0 % Daily Value)",
@@ -936,9 +936,9 @@
         "portion": "500мл/ml (N/A % DV) N/Aмл/ml per100g"
     },
     {
-        "name": "",
+        "name": "Кока-Кола® середня",
         "description": "Всесвітньо відомий освіжаючий напій.",
-        "calories": "",
+        "calories": "163 ккал/kcal",
         "fats": "0г Жири (0 % Daily Value)",
         "carbohydrates": "41г Вуглеводи (16 % Daily Value)",
         "proteins": "0г Білки (0 % Daily Value)",
@@ -948,9 +948,9 @@
         "portion": "400мл/ml (N/A % DV) N/Aмл/ml per100g"
     },
     {
-        "name": "",
+        "name": "Кока-Кола® мала",
         "description": "Всесвітньо відомий освіжаючий напій.",
-        "calories": "",
+        "calories": "102 ккал/kcal",
         "fats": "0г Жири (0 % Daily Value)",
         "carbohydrates": "26г Вуглеводи (10 % Daily Value)",
         "proteins": "0г Білки (0 % Daily Value)",
@@ -960,9 +960,9 @@
         "portion": "250мл/ml (N/A % DV) N/Aмл/ml per100g"
     },
     {
-        "name": "",
+        "name": "Фанта® велика",
         "description": "Всесвітньо відомий освіжаючий напій.",
-        "calories": "",
+        "calories": "158 ккал/kcal",
         "fats": "0г Жири (0 % Daily Value)",
         "carbohydrates": "39.5г Вуглеводи (15 % Daily Value)",
         "proteins": "0г Білки (0 % Daily Value)",
@@ -972,9 +972,9 @@
         "portion": "500мл/ml"
     },
     {
-        "name": "",
+        "name": "Фанта® середня",
         "description": "Всесвітньо відомий освіжаючий напій.",
-        "calories": "",
+        "calories": "126 ккал/kcal",
         "fats": "0г Жири (0 % Daily Value)",
         "carbohydrates": "31.6г Вуглеводи (12 % Daily Value)",
         "proteins": "0г Білки (0 % Daily Value)",
@@ -984,9 +984,9 @@
         "portion": "400мл/ml"
     },
     {
-        "name": "",
+        "name": "Фанта® мала",
         "description": "Всесвітньо відомий освіжаючий напій.",
-        "calories": "",
+        "calories": "79 ккал/kcal",
         "fats": "0г Жири (0 % Daily Value)",
         "carbohydrates": "19.75г Вуглеводи (8 % Daily Value)",
         "proteins": "0г Білки (0 % Daily Value)",
@@ -996,9 +996,9 @@
         "portion": "250мл/ml"
     },
     {
-        "name": "",
+        "name": "Спрайт® великий",
         "description": "Всесвітньо відомий освіжаючий напій.",
-        "calories": "",
+        "calories": "135 ккал/kcal",
         "fats": "0.0г Жири (0 % Daily Value)",
         "carbohydrates": "34г Вуглеводи (12 % Daily Value)",
         "proteins": "0.0г Білки (0 % Daily Value)",
@@ -1008,21 +1008,21 @@
         "portion": "500мл/ml"
     },
     {
-        "name": "",
+        "name": "Спрайт® середній",
         "description": "Всесвітньо відомий освіжаючий напій.",
         "calories": "",
-        "fats": "0.0г Жири (0 % Daily Value)",
-        "carbohydrates": "27г Вуглеводи (10 % Daily Value)",
-        "proteins": "0.0г Білки (0 % Daily Value)",
-        "unsaturated_fats": "0.0г/g (0 % DV)",
-        "sugar": "27г/g (28 % DV)",
-        "salt": "0.0г/g (0 % DV)",
-        "portion": "400мл/ml"
+        "fats": "",
+        "carbohydrates": "",
+        "proteins": "",
+        "unsaturated_fats": "",
+        "sugar": "",
+        "salt": "",
+        "portion": ""
     },
     {
-        "name": "",
+        "name": "Спрайт® малий",
         "description": "Всесвітньо відомий освіжаючий напій.",
-        "calories": "",
+        "calories": "70 ккал/kcal",
         "fats": "0.0г Жири (0 % Daily Value)",
         "carbohydrates": "17г Вуглеводи (6 % Daily Value)",
         "proteins": "0.0г Білки (0 % Daily Value)",
@@ -1032,9 +1032,9 @@
         "portion": "250мл/ml"
     },
     {
-        "name": "",
+        "name": "ВОДА НЕГАЗОВАНА велика",
         "description": "",
-        "calories": "",
+        "calories": "N/A ккал/kcal",
         "fats": "N/Aг Жири (N/A % Daily Value)",
         "carbohydrates": "N/Aг Вуглеводи (N/A % Daily Value)",
         "proteins": "N/Aг Білки (N/A % Daily Value)",
@@ -1044,21 +1044,21 @@
         "portion": "500мл/ml (N/A % DV) N/Aмл/ml per100g"
     },
     {
-        "name": "",
+        "name": "ВОДА НЕГАЗОВАНА мала",
         "description": "",
         "calories": "",
-        "fats": "N/Aг Жири (N/A % Daily Value)",
-        "carbohydrates": "N/Aг Вуглеводи (N/A % Daily Value)",
-        "proteins": "N/Aг Білки (N/A % Daily Value)",
-        "unsaturated_fats": "N/Aг/g (N/A % DV) N/Aг/g per100g",
-        "sugar": "N/Aг/g (N/A % DV) N/Aг/g per100g",
-        "salt": "N/Aг/g (N/A % DV) N/Aг/g per100g",
-        "portion": "250г/g (N/A % DV) N/Aг/g per100g"
+        "fats": "",
+        "carbohydrates": "",
+        "proteins": "",
+        "unsaturated_fats": "",
+        "sugar": "",
+        "salt": "",
+        "portion": ""
     },
     {
-        "name": "",
+        "name": "ВОДА ГАЗОВАНА велика",
         "description": "",
-        "calories": "",
+        "calories": "N/A ккал/kcal",
         "fats": "N/Aг Жири (N/A % Daily Value)",
         "carbohydrates": "N/Aг Вуглеводи (N/A % Daily Value)",
         "proteins": "N/Aг Білки (N/A % Daily Value)",
@@ -1068,9 +1068,9 @@
         "portion": "500мл/ml (N/A % DV) N/Aмл/ml per100g"
     },
     {
-        "name": "",
+        "name": "ВОДА ГАЗОВАНА мала",
         "description": "",
-        "calories": "",
+        "calories": "N/A ккал/kcal",
         "fats": "N/Aг Жири (N/A % Daily Value)",
         "carbohydrates": "N/Aг Вуглеводи (N/A % Daily Value)",
         "proteins": "N/Aг Білки (N/A % Daily Value)",
@@ -1080,9 +1080,9 @@
         "portion": "250мл/ml (N/A % DV) N/Aмл/ml per100g"
     },
     {
-        "name": "",
+        "name": "Лимонад Бабл Гам Фрут",
         "description": "Напій для спекотних днів та яскравого настрою.",
-        "calories": "",
+        "calories": "115 ккал/kcal",
         "fats": "0.0г Жири (0 % Daily Value)",
         "carbohydrates": "28.0г Вуглеводи (10 % Daily Value)",
         "proteins": "0.0г Білки (0 % Daily Value)",
@@ -1092,9 +1092,9 @@
         "portion": "350мл/ml (N/A % DV) N/Aмл/ml per100g"
     },
     {
-        "name": "",
+        "name": "Сік «Галіція» яблучно-грушевий",
         "description": "",
-        "calories": "",
+        "calories": "80 ккал/kcal",
         "fats": "0.0г Жири (0 % Daily Value)",
         "carbohydrates": "19г Вуглеводи (7 % Daily Value)",
         "proteins": "1.0г Білки (1 % Daily Value)",
@@ -1104,9 +1104,9 @@
         "portion": "200мл/ml (N/A % DV) N/Aмл/ml per100g"
     },
     {
-        "name": "",
+        "name": "Сік «Галіція» яблучний",
         "description": "Новий натуральний сік прямого віджиму в меню МакДональдз® . В його складі лише стиглі фрукти — ніякого цукру, води чи консервантів.",
-        "calories": "",
+        "calories": "88 ккал/kcal",
         "fats": "0г Жири (0 % Daily Value)",
         "carbohydrates": "22г Вуглеводи (8 % Daily Value)",
         "proteins": "0.4г Білки (1 % Daily Value)",

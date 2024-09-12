@@ -40,9 +40,7 @@ for i in range(len(product_links)):
     driver.get(product_url)
 
     try:
-        name_element = wait.until(
-            EC.presence_of_element_located((By.CSS_SELECTOR, 'span.cmp-product-details-main__heading-title')))
-        name = extract_content(name_element)
+        name = get_element_text_or_default(driver, '//*[@id="container-20012ecdca"]/div/div[1]/div/div[1]/div/div[3]/div[1]/h1/span[2]')
 
         description_element = driver.find_element(By.CSS_SELECTOR, 'div.cmp-text')
         description = extract_content(description_element)
@@ -50,7 +48,7 @@ for i in range(len(product_links)):
         accordion_button = wait.until(EC.element_to_be_clickable((By.ID, 'accordion-29309a7a60-item-9ea8a10642-button')))
         accordion_button.click()
 
-        calories = get_element_text_or_default(driver, "//span[contains(text(),'ккал/kcal')]")
+        calories = get_element_text_or_default(driver, '//*[@id="pdp-nutrition-summary"]/div/div[1]/div/ul/li[1]/span[1]/span[2]')
         fats = get_element_text_or_default(driver, "//span[contains(text(),'Жири')]")
         carbs = get_element_text_or_default(driver, "//span[contains(text(),'Вуглеводи')]")
         proteins = get_element_text_or_default(driver, "//span[contains(text(),'Білки')]")
