@@ -5,12 +5,14 @@ from selenium.webdriver.support import expected_conditions as EC
 import json
 
 driver = webdriver.Chrome()
+driver.maximize_window()
 
 base_url = 'https://www.mcdonalds.com'
 menu_url = 'https://www.mcdonalds.com/ua/uk-ua/eat/fullmenu.html'
 driver.get(menu_url)
 
-wait = WebDriverWait(driver, 15)
+
+wait = WebDriverWait(driver, 20)
 
 product_links = driver.find_elements(By.CSS_SELECTOR, 'a.cmp-category__item-link')
 
@@ -48,7 +50,7 @@ for i in range(len(product_links)):
         accordion_button = wait.until(EC.element_to_be_clickable((By.ID, 'accordion-29309a7a60-item-9ea8a10642-button')))
         accordion_button.click()
 
-        calories = wait.until(EC.presence_of_element_located((By.XPATH, "//span[contains(text(),'ккал/kcal')]"))).text
+        calories = get_element_text_or_default(driver, "//span[contains(text(),'ккал/kcal')]")
         fats = get_element_text_or_default(driver, "//span[contains(text(),'Жири')]")
         carbs = get_element_text_or_default(driver, "//span[contains(text(),'Вуглеводи')]")
         proteins = get_element_text_or_default(driver, "//span[contains(text(),'Білки')]")
@@ -78,7 +80,5 @@ for i in range(len(product_links)):
 
 with open('menu_items.json', 'w', encoding='utf-8') as f:
     json.dump(menu_items, f, ensure_ascii=False, indent=4)
-
-print(f"Data has been saved to 'menu_items.json'.")
 
 driver.quit()
